@@ -14,8 +14,7 @@ To replicate this analysis, ensure you have Python 3.8+ installed. You can set u
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/marketing-roi-analysis.git](https://github.com/yourusername/marketing-roi-analysis.git)
-cd marketing-roi-analysis
+git clone [https://https://github.com/kenstare/3MTT_Tasks](https://github.com/kenstare/3MTT_Tasks)
 
 # Install required dependencies
 pip install pandas numpy matplotlib seaborn statsmodels
